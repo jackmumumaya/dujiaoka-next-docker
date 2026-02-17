@@ -1,0 +1,10 @@
+# Ignore config file (sensitive)
+config.yml
+logs/
+backend/db/
+backend/uploads/
+# OS metadata
+Thumbs.db
+.DS_Store
+# Docker related
+.env
